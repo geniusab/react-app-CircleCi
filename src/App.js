@@ -17,7 +17,7 @@ function App() {
         >
           Learn React
         </a>
-        test!
+        test!!
       </header>
     </div>
   );
